@@ -7,6 +7,9 @@
 >
 > > - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](resources/sandbox_struggles.md)
 > > - [Authenticating Git](resources/auth_git.md)
+> > - [Source code Management](resources/sourcecode_mgmt.md)
+> > - [Right-engineering, right-documenting](resources/right_engr_docs.md)
+> > - [Git and Github cheat sheet - Everything in less than 30 seconds](resources/github_cheatsheets.md)
 >
 
 ## Resources
